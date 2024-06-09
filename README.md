@@ -19,8 +19,9 @@ Asegúrese de tener instalados los siguientes software en su máquina:
 1. **IMPORTANTE**
 
     ```bash
-    El servicio incluye datos precargados con 3 registros para facilitar las pruebas iniciales.
-    Liste los clientes y copia el Código Único para poder filtrar con CU encriptado.
+    1.1: Primero cree un producto -> http://localhost:8090/swagger-doc/swagger-ui.html
+    1.2: cree un cliente y pon el id de un producto existente  ->  http://localhost:8080/swagger-doc/swagger-ui.html
+    1.3: Liste los clientes y copia el Código Único para poder filtrar con CU encriptado->  http://localhost:8090/swagger-doc/swagger-ui.html
     ```
  ****
 2. **Clonar el repositorio**

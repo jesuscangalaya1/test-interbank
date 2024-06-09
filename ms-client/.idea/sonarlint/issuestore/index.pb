@@ -44,6 +44,3 @@ n
 +src/main/java/com/msclient/dto/Product.java,7\f\7fa1262944558d6917d7106f37b6128d10a8eb09
 Z
 *src/main/java/com/msclient/dto/Client.java,5\b\5b44a227ec696d65628985befd2178594153367d
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
