@@ -1,0 +1,16 @@
+com\msproduct\router\AppRouterConfig.class
+com\msproduct\service\iml\SequenceGeneratorService.class
+com\msproduct\util\Constants.class
+com\msproduct\dao\ProductRepository.class
+com\msproduct\service\ProductService.class
+com\msproduct\exceptions\ApplicationExceptionHandler.class
+com\msproduct\exceptions\GlobalErrorAttributes.class
+com\msproduct\dto\Product.class
+com\msproduct\handler\ProductHandler.class
+com\msproduct\exceptions\ProductExceptionHandler.class
+com\msproduct\SpringbootWebfluxDemoApplication.class
+com\msproduct\util\TraceIdFilter.class
+com\msproduct\service\iml\ProductServiceImpl.class
+com\msproduct\config\SwaggerConfig.class
+com\msproduct\exceptions\BusinessException.class
+com\msproduct\dto\DatabaseSequence.class

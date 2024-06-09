@@ -1,0 +1,53 @@
+version: "3"
+services:
+  build-jar:
+    image: maven:3.6.3-jdk-11
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["mvn", "clean", "package", "-DskipTests"]
+
+  msclient:
+    build: .\ms-client
+    container_name: "msclient-dockercompose"
+    ports:
+      - 8080:8080
+    depends_on:
+      - mongodb
+      - msdebitcard
+      - build-jar
+    networks:
+      - cangalaya
+
+  msdebitcard:
+    build: .\ms-debitcard
+    container_name: "msdebitcard-dockercompose"
+    ports:
+      - 8090:8090
+    depends_on:
+      - mongodb
+      - build-jar
+    networks:
+      - cangalaya
+
+  msbff:
+    build: .\ms-bff
+    container_name: "msbff-dockercompose"
+    ports:
+      - 9090:9090
+    depends_on:
+      - msclient
+      - build-jar
+    networks:
+      - cangalaya
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb-dockercompose
+    ports:
+      - 27017:27017
+    networks:
+      - cangalaya
+
+networks:
+  cangalaya:

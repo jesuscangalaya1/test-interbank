@@ -1,0 +1,16 @@
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\exceptions\BusinessException.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\dao\ProductRepository.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\dto\DatabaseSequence.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\service\ProductService.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\SpringbootWebfluxDemoApplication.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\util\Constants.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\router\AppRouterConfig.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\config\SwaggerConfig.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\dto\Product.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\exceptions\ProductExceptionHandler.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\exceptions\ApplicationExceptionHandler.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\exceptions\GlobalErrorAttributes.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\util\TraceIdFilter.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\handler\ProductHandler.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\service\iml\ProductServiceImpl.java
+C:\Users\CLIENTE\Desktop\test\Video3\ms-debitcard\src\main\java\com\msproduct\service\iml\SequenceGeneratorService.java
