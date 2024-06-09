@@ -1,0 +1,7 @@
+
+
+java:S1192"UUse already-defined constant 'TRACE_ID_HEADER' instead of duplicating its value here.(°ƒˆ£øÿÿÿÿ8§ášïÿ1J$aab639fc-09f9-489a-885c-fcda1315dd7e
+{
+java:S1068"3Remove this unused "TRACE_ID_HEADER" private field.(Ä×ÿ•şÿÿÿÿ8¯ášïÿ1J$e27aed60-6779-4741-9e2a-8de0e4f8a00d
+s
+java:S1068"0Remove this unused "TRACE_ID_KEY" private field.(Å¼ßÆ8¯ášïÿ1J$33997091-975e-452d-b8e3-0f98be7f59ca

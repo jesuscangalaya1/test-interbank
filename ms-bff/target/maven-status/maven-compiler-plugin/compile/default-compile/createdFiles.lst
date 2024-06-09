@@ -1,0 +1,14 @@
+com\msdebitcard\exceptions\ApplicationExceptionHandler.class
+com\msdebitcard\dto\ClientWithProductsDTO.class
+com\msdebitcard\util\TraceIdFilter.class
+com\msdebitcard\config\WebClientConfig.class
+com\msdebitcard\config\SwaggerConfig.class
+com\msdebitcard\exceptions\GlobalErrorAttributes.class
+com\msdebitcard\service\BffService.class
+com\msdebitcard\router\AppRouterConfig.class
+com\msdebitcard\handler\BffHandler.class
+com\msdebitcard\dto\Product.class
+com\msdebitcard\MsDebitcardApplication.class
+com\msdebitcard\exceptions\BusinessException.class
+com\msdebitcard\exceptions\ClientExceptionHandler.class
+com\msdebitcard\util\Constants.class
