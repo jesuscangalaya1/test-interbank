@@ -26,7 +26,7 @@ Asegúrese de tener instalados los siguientes software en su máquina:
 2. **Clonar el repositorio**
 
     ```bash
-    git clone https://github.com/tu-usuario/test-interbank.git
+    git clone https://github.com/jesuscangalaya1/test-interbank.git
     cd test-interbank
     ```
 
