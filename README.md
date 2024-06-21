@@ -38,7 +38,7 @@ Asegúrese de tener instalados los siguientes software en su máquina:
     ```
 4. **Acceder a Swagger para probar ENDPOINT DE MS-BFF**
     ```
-    http://localhost:8090/swagger-doc/swagger-ui.html
+    http://localhost:9090/swagger-doc/swagger-ui.html
     ```
 
 5. **Acceder a Swagger para probar ENDPOINT DE MS-CLIENT**
